@@ -10,6 +10,14 @@ $usuario = "u484271134_senac";
 $senha = "is@el1988";
 $bancoDados = "u484271134_senac";
 */
+/*
+$local = "localhost";
+$usuario = "root";
+$senha = "";
+$bancoDados = "clinica";
+*/
+
+/* mudança no código */
 $local = "localhost";
 $usuario = "root";
 $senha = "";
